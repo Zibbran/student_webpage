@@ -37,17 +37,6 @@
   color: black;
 }
 
-.btn0 {
-  height: 40px;
-  padding: 0px 10px 0px 10px;
-  outline: none;
-  border: none;
-  border-radius: 50px;
-  background: green;
-  color: seashell;
-  font-weight: 700;
-}
-
 .logo {
   height: 50px;
   width: 50px;
